@@ -14,3 +14,5 @@ En este momento la única aplicación que existe y es parecida a nuestro proyect
 
 Nuestro proyecto es en este momento único en el mercado, no hay ninguna aplicación en donde puedas reservar una discoteca a tiempo real, comprar licor, recibir promociones únicas, entre otros múltiples beneficios, planeamos que esté en diversos lenguajes, algunos como Español, Inglés, Alemán, Portugués, Francés, entre muchos otros.
 
+## 6. Objetivo General
+Llegar a una concientización social en donde se de a conocer las verdaderas raíces, culturas y sensaciones que tiene Medellín a nivel de entretenimiento.
