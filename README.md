@@ -24,3 +24,8 @@ Promocionar para culturizar y no para ganar dinero porque sí, introducir al mun
 
 ## 8. Modelo de Negocio
 ![](imgs/ModeloDeNegocio.png)
+
+# 10. Descripción de la Aplicación
+La aplicación estará tanto a nivel web cómo móvil, puesto que está pensado que sea totalmente responsive, la arquitectura será establecida en bases de datos, y en un modelo servidor-cliente y servidor-administrador-cliente, ya que habrá una aplicación para los clientes y otra para el manejo de los dueños de las discotecas.
+
+La información que cada administrador de la discoteca guardará en la base de datos será cada cliente, su nombre, cédula, código de reserva QR, usuarios registrados y su historial de reserva y compra de licor.
