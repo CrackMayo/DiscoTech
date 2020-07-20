@@ -16,3 +16,8 @@ Nuestro proyecto es en este momento único en el mercado, no hay ninguna aplicac
 
 ## 6. Objetivo General
 Llegar a una concientización social en donde se de a conocer las verdaderas raíces, culturas y sensaciones que tiene Medellín a nivel de entretenimiento.
+
+## 7. Objetivos Específicos
+Habilitar opciones de reserva para discotecas en donde se filtre o categorice por género, cultura, idiomas, sensaciones, entre muchas otras opciones.
+
+Promocionar para culturizar y no para ganar dinero porque sí, introducir al mundo del entretenimiento de Medellín una nueva tecnología que haga más fácil vivir cada experiencia de cada lugar de rumba nocturna de la ciudad.
