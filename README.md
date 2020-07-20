@@ -21,3 +21,6 @@ Llegar a una concientización social en donde se de a conocer las verdaderas ra�
 Habilitar opciones de reserva para discotecas en donde se filtre o categorice por género, cultura, idiomas, sensaciones, entre muchas otras opciones.
 
 Promocionar para culturizar y no para ganar dinero porque sí, introducir al mundo del entretenimiento de Medellín una nueva tecnología que haga más fácil vivir cada experiencia de cada lugar de rumba nocturna de la ciudad.
+
+## 8. Modelo de Negocio
+![](imgs/ModeloDeNegocio.png)
