@@ -1,5 +1,10 @@
 # DiscoTech
 
+## 1. Introducción
+El siguiente es un proyecto que ha sido ideado por una iniciativa de oportunidad de negocio que se ha visto en el contexto de entretenimiento, que busca no solo la creación de una aplicación que pueda agrupar las discotecas de Medellín, sino también hacer un cambio y un impacto sociocultural a la vista de extranjeros de cualquier parte del mundo.
+
+Su creación y ejecución es a partir de las ideas que se vayan generando en la asignatura Desarrollo Web Avanzado y a su vez; Juntando conocimientos de bases de datos, arquitectura de Software y otras asignaturas de modelo de negocios.
+
 ## 2. Tema
 Se trata de la creación de una aplicación en donde se pueda interactuar con los mejores sitios de entretenimiento de la ciudad de Medellín; Bares, discotecas, restaurantes, todos estos lugares en donde podamos reservar, ver sus eventos, promociones, comprar licor y ubicarlos vía GPS para poder asistir a estos.
 
