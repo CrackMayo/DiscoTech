@@ -31,12 +31,17 @@ Promocionar para culturizar y no para ganar dinero porque sí, introducir al mun
 ![](imgs/ModeloDeNegocio.png)
 
 ## 9. Mockups de la Aplicación
+
+###### Inicio de Sesión
 ![](imgs/Login.png)
 
+###### Pantalla Principal
 ![](imgs/Main.png)
 
+###### Pantalla Admin - Creación Discoteca
 ![](imgs/Admin_NuevaDiscoteca.png)
 
+###### Pantalla User - Creación Reserva
 ![](imgs/User_Reserva.png)
 
 ## 10. Descripción de la Aplicación
@@ -45,7 +50,7 @@ La aplicación estará tanto a nivel web cómo móvil, puesto que está pensado 
 La información que cada administrador de la discoteca guardará en la base de datos será cada cliente, su nombre, cédula, código de reserva QR, usuarios registrados y su historial de reserva y compra de licor.
 
 ## 11. Bibliografía
-https://innokabi.com/lienzo-lean-canvas-el-lienzo-de-los-emprendedores/
-https://eventsite.co/
-https://www.tripadvisor.co/
-https://innokabi.com/early-adopters-5-claves-para-detectar-a-tus-primeros-clientes/
+- https://innokabi.com/lienzo-lean-canvas-el-lienzo-de-los-emprendedores/
+- https://eventsite.co/
+- https://www.tripadvisor.co/
+- https://innokabi.com/early-adopters-5-claves-para-detectar-a-tus-primeros-clientes/
