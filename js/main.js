@@ -33,12 +33,8 @@ function dropdownRegister(text) {
 function btnLook(id, span) {
   if (document.getElementById(id).type == "password") {
     document.getElementById(id).type = "text";
-    document.getElementById(span).classList.add("fa-eye");
-    document.getElementById(span).classList.remove("fa-eye-slash");
   } else {
     document.getElementById(id).type = "password";
-    document.getElementById(span).classList.remove("fa-eye");
-    document.getElementById(span).classList.add("fa-eye-slash");
   }
 }
 
@@ -203,14 +199,15 @@ function obtenerDiscos() {
         lista.innerHTML =
           lista.innerHTML +
           "<div class='col-md-3'><div class='card'> " +
-          "<img class='card-img-top' src='" +
+          "<img class='card-img-top' src= '" +
           child.data().imagenDiscoteca +
           "' alt='Card image cap'>" +
           "<div class='card-body' align='center'>" +
-          "<h5 class='card-title'>" +
+          "<h5 id='cardNameDisco' class='card-title'>" +
           child.id +
           "</h5>" +
-          "<p class='card-text'></p>" +
+          "<p class='card-text'>"+child.data().ubicacion+"</p>" +
+          "<p class='card-text'>"+child.data().horarioDeOperacion+"</p>" +
           "<button class='btn btn-primary' type='button' onclick='loadDisco(" +
           '"' +
           child.id +
