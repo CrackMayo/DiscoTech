@@ -27,7 +27,7 @@ const CreateDisco = () => {
         nombreDiscoteca: discoName,
         descripcionDetallada: discoDetails,
         horarioDeOperacion: discoSchedule,
-        imagenDiscoteca: "https://firebasestorage.googleapis.com/v0/b/discotech.appspot.com/o/tamayo998%40hotmail.com%2Fdiscotecas%2FEl%20Cacique%2FelCacique.jpg?alt=media&token=40e61f8b-42cb-4870-a3a7-d1f64c85bd5c",
+        imagenDiscoteca: "https://firebasestorage.googleapis.com/v0/b/discotech.appspot.com/o/test2.jpg?alt=media&token=50c6968e-ce65-409e-a001-0d7f2d8e9f54",
         tipo: discoType,
         ubicacion: discoAddress
       })

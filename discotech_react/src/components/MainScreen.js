@@ -70,6 +70,7 @@ const MainScreen = ({ handleLogOut }) => {
           setDisco={setDisco}
         />
       )}
+      <div className = "wall"></div>
       <Footer />
     </section>
   );
